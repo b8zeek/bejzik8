@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src='https://www.seekpng.com/png/full/17-175422_dk-swinging-nintendo-donkey-kong-country-tropical-wii.png' align="right" height='300'>
 
-<!--
-**bejzik8/bejzik8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello friends 👋
 
-Here are some ideas to get you started:
+My name is Basic Mirko 💩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on professional improvement 🛠
+- 🌱 I’m currently learning everything about React ⚛
+- 👯 I’m looking to join React team ✊
+- 🤔 I’m looking to leave my mark in the field 🐾
+- 💬 Ask me about the purpose of life 🍀
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭
+- 😄 Pronouns: he, him, his 🤷‍♂‍
+- ⚡ Fun fact: I used to breakdance, still can do the windmills 😎

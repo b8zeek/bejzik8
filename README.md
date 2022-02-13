@@ -1,8 +1,16 @@
 <img src='https://www.seekpng.com/png/full/17-175422_dk-swinging-nintendo-donkey-kong-country-tropical-wii.png' align="right" height='300'>
 
-## Hello friends 👋
+## `WELCOME FRIENDS 👋`
 
-#### My name is `Basic Mirko` 💩
+#### My name is `Basic Mirko` 🐵
+
+**I LOVE what I do!!!** I am a full-stack developer who takes pride in writing extremely clean code and focuses on constant growth. As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for improvement and my mission-driven work ethic to leave my mark in the field.
+
+I am interested in the entire full-stack spectrum but currently my major focus is on **[React](https://github.com/facebook/react)**. I have skills in other fields like typography, design and modeling. I take visuals of a web site just as seriously as a designer and believe the combination of both form and function is what makes a great user experience.
+
+_________
+
+#### What's *README* without a `GitHub` template? 😅
 
 - *🔭 I’m currently working on professional improvement 🛠*
 - *🌱 I’m currently learning everything about **[React](https://github.com/facebook/react)** ⚛*

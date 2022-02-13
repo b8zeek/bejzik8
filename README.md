@@ -20,3 +20,7 @@ _________
 - *📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭*
 - *😄 Pronouns: he, him, his 🤷‍♂‍*
 - *⚡ Fun fact: I used to breakdance, still can do the windmills 😎*
+
+_________
+
+<img src='https://komarev.com/ghpvc/?username=bejzik8&label=Profile%20views&color=0e75b6&style=flat' alt='bejzik8'>

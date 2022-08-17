@@ -4,9 +4,7 @@
 
 #### My name is `Basic Mirko` 🐵
 
-**I LOVE what I do!!!** I am a full-stack developer who takes pride in writing extremely clean code and focuses on constant growth. As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for improvement and my mission-driven work ethic to leave my mark in the field.
-
-I am interested in the entire full-stack spectrum but currently my major focus is on **[React](https://github.com/facebook/react)**. I have skills in other fields like typography, design and modeling. I take visuals of a web site just as seriously as a designer and believe the combination of both form and function is what makes a great user experience.
+**I LOVE what I do!!!** I am a full-stack software engineer who takes pride in writing extremely clean, readable and minimal code and focuses on crafting future-proof web applications which are performant and easy to maintain. I value well-organized project structure, thoughtful interactions and innovative ideas. Really passionate about technology, I'm interested in the entire spectrum but my go-to technology is React. I devoted a lot of time getting to know it in-depth together with its whole ecosystem and I enjoy using it the most since it is unopinionated and everyone has a chance to adapt it to their own needs and express themselves in their own way. My abundant energy fuels me in the pursuit of many interests, I enjoy using my obsessive attention to detail, my unequivocal love for improvement and my mission-driven work ethic to continuously get better.I am currently in the process of fully shifting myself to Web3 space and decentralized web approach because I see it as a future, as a game-changer in the upcoming evolution of the internet. I am definitely sold on the idea! I am focused on learning everything about the existing concepts on blockchain because I think that we have a chance to create impactful changes in many ways and give a huge contribution for the better of the community.
 
 _________
 

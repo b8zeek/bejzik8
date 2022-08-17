@@ -12,10 +12,10 @@ _________
 
 #### What's *README* without a `GitHub` template? 😅
 
-- *🔭 I’m currently working on professional improvement 🛠*
-- *🌱 I’m currently learning everything about **[React](https://github.com/facebook/react)** ⚛*
-- *👯 I’m looking to join **[React](https://github.com/facebook/react)** team ✊*
-- *🤔 I’m looking to leave my mark in the field 🐾*
+- *🔭 I’m currently working on integration of QR with NFT 🛠*
+- *🌱 I’m currently learning everything about blockchain concepts ⛓️*
+- *👯 I’m looking to meet other amazing people in the Web3 space ✊*
+- *🤔 I’m looking to create something special that will benefit the community 🐾*
 - *💬 Ask me about the purpose of life 🍀*
 - *📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭*
 - *😄 Pronouns: he, him, his 🤷‍♂‍*

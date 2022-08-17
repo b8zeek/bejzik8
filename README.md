@@ -21,6 +21,6 @@ _________
 - *😄 Pronouns: he, him, his 🤷‍♂‍*
 - *⚡ Fun fact: I used to breakdance, still can do the windmills 😎*
 
-_________
+<img src='./src/smoke.png'>
 
 <img src='https://komarev.com/ghpvc/?username=bejzik8&label=Profile%20views&color=0e75b6&style=flat' alt='bejzik8'>

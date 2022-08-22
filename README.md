@@ -15,7 +15,7 @@
 - *👯 I’m looking to meet other amazing people in the Web3 space ✊*
 - *🤔 I’m looking to create something special that will benefit the community 🐾*
 - *💬 Ask me about the purpose of life 🍀*
-- *📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭*
+- *📫 How to reach me: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭*
 - *😄 Pronouns: he, him, his 🤷‍♂‍*
 - *⚡ Fun fact: I used to breakdance, still can do the windmills 😎*
 

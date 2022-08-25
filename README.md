@@ -19,5 +19,13 @@
 - *😄 Pronouns: he, him, his 🤷‍♂‍*
 - *⚡ Fun fact: I used to breakdance, still can do the windmills 😎*
 
+***
+
+<div align="center"/>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejzik8&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<div>
+
 <img align="left" src='https://komarev.com/ghpvc/?username=bejzik8&label=Profile%20views&color=0e75b6&style=flat' alt='bejzik8'>
 <img align="right" src="https://img.shields.io/github/followers/bejzik8?label=Follow&style=social" />

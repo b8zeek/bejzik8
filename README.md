@@ -19,4 +19,5 @@
 - *😄 Pronouns: he, him, his 🤷‍♂‍*
 - *⚡ Fun fact: I used to breakdance, still can do the windmills 😎*
 
-<img src='https://komarev.com/ghpvc/?username=bejzik8&label=Profile%20views&color=0e75b6&style=flat' alt='bejzik8'>
+<img align="left" src='https://komarev.com/ghpvc/?username=bejzik8&label=Profile%20views&color=0e75b6&style=flat' alt='bejzik8'>
+<img align="right" src="https://img.shields.io/github/followers/bejzik8?label=Follow&style=social" />

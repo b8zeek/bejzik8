@@ -19,7 +19,7 @@
 - *😄 Pronouns: he, him, his 🤷‍♂‍*
 - *⚡ Fun fact: I used to breakdance, still can do the windmills 😎*
 
-***
+## GitHub Stats 📈
 
 <div align="center"/>
 

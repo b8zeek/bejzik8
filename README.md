@@ -21,6 +21,8 @@
 
 ## GitHub Stats 📈
 
+[![Mirko's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bejzik8&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center"/>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejzik8&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

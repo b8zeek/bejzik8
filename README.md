@@ -1,8 +1,6 @@
-<img src='./src/welcome.gif'>
-
-<img src='./src/donkey-kong.png' align="right" height='150'>
-
-## `WELCOME FRIENDS 👋`
+<!-- <img src='./src/welcome-friends-surf.gif' width='100%' > -->
+<img src='./src/welcome-friends-prism.gif' width='100%' >
+<!-- <img src='./src/welcome-friends-arcade.gif' width='100%' > -->
 
 #### My name is `Basic Mirko` 🐵
 
@@ -20,6 +18,8 @@
 -   _📫 How to reach me: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭_
 -   _😄 Pronouns: he, him, his 🤷‍♂‍_
 -   _⚡ Fun fact: I used to breakdance, still can do the windmills 😎_
+
+<img src='./src/tech-stack.gif' >
 
 ## GitHub Stats 📈
 

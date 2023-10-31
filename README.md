@@ -1,8 +1,6 @@
-<img src='./src/welcome.gif' width='100%'>
-
-<img src='./src/donkey-kong.png' align="right" height='150'>
-
-## `WELCOME FRIENDS 👋`
+<!-- <img src='./src/welcome-friends-surf.gif' width='100%' > -->
+<img src='./src/welcome-friends-prism.gif' width='100%' >
+<!-- <img src='./src/welcome-friends-arcade.gif' width='100%' > -->
 
 #### My name is `Basic Mirko` 🐵
 
@@ -17,7 +15,7 @@
 -   _👯 I’m looking to meet other amazing people in the Web3 space ✊_
 -   _🤔 I’m looking to create something special that will benefit the community 🐾_
 -   _💬 Ask me about the purpose of life 🍀_
--   _📫 How to reach me: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭_
+-   _📫 How to reach me: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) 🧭_
 -   _😄 Pronouns: he, him, his 🤷‍♂‍_
 -   _⚡ Fun fact: I used to breakdance, still can do the windmills 😎_
 

@@ -1,4 +1,6 @@
-<img src='https://www.seekpng.com/png/full/17-175422_dk-swinging-nintendo-donkey-kong-country-tropical-wii.png' align="right" height='300'>
+<img src='./src/welcome.gif'>
+
+<img src='./src/donkey-kong.png' align="right" height='150'>
 
 ## `WELCOME FRIENDS 👋`
 
@@ -8,22 +10,22 @@
 
 <img src='./src/smoke.png'>
 
-#### What's *README* without a `GitHub` template? 😅
+#### What's _README_ without a `GitHub` template? 😅
 
-- *🔭 I’m currently working on integration of QR with NFT 🛠*
-- *🌱 I’m currently learning everything about blockchain concepts ⛓️*
-- *👯 I’m looking to meet other amazing people in the Web3 space ✊*
-- *🤔 I’m looking to create something special that will benefit the community 🐾*
-- *💬 Ask me about the purpose of life 🍀*
-- *📫 How to reach me: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭*
-- *😄 Pronouns: he, him, his 🤷‍♂‍*
-- *⚡ Fun fact: I used to breakdance, still can do the windmills 😎*
+-   _🔭 I’m currently working on integration of QR with NFT 🛠_
+-   _🌱 I’m currently learning everything about blockchain concepts ⛓️_
+-   _👯 I’m looking to meet other amazing people in the Web3 space ✊_
+-   _🤔 I’m looking to create something special that will benefit the community 🐾_
+-   _💬 Ask me about the purpose of life 🍀_
+-   _📫 How to reach me: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) | [Phone](tel:+381642158383) 🧭_
+-   _😄 Pronouns: he, him, his 🤷‍♂‍_
+-   _⚡ Fun fact: I used to breakdance, still can do the windmills 😎_
 
 ## GitHub Stats 📈
 
 <div align="center"/>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejzik8&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejzik8&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div>
 

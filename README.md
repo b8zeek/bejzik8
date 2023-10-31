@@ -1,4 +1,4 @@
-<img src='./src/welcome.gif'>
+<img src='./src/welcome.gif' width='100%'>
 
 <img src='./src/donkey-kong.png' align="right" height='150'>
 

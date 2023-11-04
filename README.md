@@ -1,7 +1,6 @@
 <!-- <img src='./src/welcome-friends-surf.gif' width='100%' > -->
 <img src='./src/welcome-friends-prism.gif' width='100%' >
 <!-- <img src='./src/welcome-friends-arcade.gif' width='100%' > -->
-<br>
 
 <h2 align='center'>Get to Know Me 🍀</h2>
 
@@ -24,6 +23,8 @@ I have a deep appreciation for the entire technological landscape, but what trul
 -   _💬 If you're interested in profound philosophical discussions, don't hesitate to ask me about the purpose of life 🍀_
 -   _📫 Reach me out at: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) 🧭_
 -   _⚡ Fun fact: In the past, I was a breakdancer, and to this day, I can still flawlessly execute windmills 😎_
+
+<br>
 
 <h2 align='center'>GitHub Stats 📈</h2>
 

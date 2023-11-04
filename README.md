@@ -10,18 +10,17 @@
 
 #### What's _README_ without a `GitHub` template? 😅
 
--   _🔭 I’m currently working on integration of QR with NFT 🛠_
--   _🌱 I’m currently learning everything about blockchain concepts ⛓️_
--   _👯 I’m looking to meet other amazing people in the Web3 space ✊_
--   _🤔 I’m looking to create something special that will benefit the community 🐾_
--   _💬 Ask me about the purpose of life 🍀_
--   _📫 How to reach me: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) 🧭_
--   _😄 Pronouns: he, him, his 🤷‍♂‍_
--   _⚡ Fun fact: I used to breakdance, still can do the windmills 😎_
+-   _🔭 I am presently in the process of acquiring proficiency in Solidity along with its core concepts 🛠_
+-   _🌱 I am in the process of immersing myself in a thorough exploration of blockchain concepts ⛓️_
+-   _👯 I'm keen to connect with fellow visionaries in the Web3 space, looking forward to collaborative opportunities ✊_
+-   _🤔 My primary goal is to create something truly impactful that will enrich the community as a whole 🐾_
+-   _💬 If you're interested in profound philosophical discussions, don't hesitate to ask me about the purpose of life 🍀_
+-   _📫 Reach me out at: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) 🧭_
+-   _⚡ Fun fact: In the past, I was a breakdancer, and to this day, I can still flawlessly execute windmills 😎_
 
 ## GitHub Stats 📈
 
-<div align="center"/>
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejzik8&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

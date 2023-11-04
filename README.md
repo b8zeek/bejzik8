@@ -1,6 +1,9 @@
 <!-- <img src='./src/welcome-friends-surf.gif' width='100%' > -->
 <img src='./src/welcome-friends-prism.gif' width='100%' >
 <!-- <img src='./src/welcome-friends-arcade.gif' width='100%' > -->
+<br>
+
+<h2 align='center'>Get to Know Me 🍀</h2>
 
 I am a dedicated full-stack software engineer deeply passionate about my work. My commitment lies in the creation of elegant, maintainable, and efficient code, paving the way for performant, easy-maintainable, future-proof web applications. I place a high value on well-structured project architectures, thoughtful user interactions, and the exploration of innovative concepts. My enthusiasm for technology spans a wide spectrum, but I have a special affinity for React. I have invested a significant amount of time delving into its intricacies and its comprehensive ecosystem. I find React's unopinionated nature particularly appealing, allowing individuals the flexibility to adapt it to their unique needs and express their creativity.
 
@@ -8,9 +11,11 @@ My unwavering dedication, keen eye for detail, and unrelenting pursuit of excell
 
 I have a deep appreciation for the entire technological landscape, but what truly captivates my imagination is the realm of blockchain and its transformative concepts. This fascination has driven me to orient my career in this direction, investing both my time and expertise. I hold a strong belief in the potential of blockchain to reshape the future and revolutionize the internet as we perceive it today. My commitment to this vision is unwavering, and I am dedicated to the thorough mastery of blockchain concepts, with the ultimate goal of making substantial contributions to the community and instigating meaningful changes.
 
+<br>
 <img src='./src/smoke.png'>
+<br>
 
-#### What's _README_ without a `GitHub` template? 😅
+<h2 align='center'>GitHub README.md Template 😅</h2>
 
 -   _🔭 I am presently in the process of acquiring proficiency in Solidity along with its core concepts 🛠_
 -   _🌱 I am in the process of immersing myself in a thorough exploration of blockchain concepts ⛓️_
@@ -20,7 +25,7 @@ I have a deep appreciation for the entire technological landscape, but what trul
 -   _📫 Reach me out at: [Telegram](https://t.me/bejzik8) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) 🧭_
 -   _⚡ Fun fact: In the past, I was a breakdancer, and to this day, I can still flawlessly execute windmills 😎_
 
-## GitHub Stats 📈
+<h2 align='center'>GitHub Stats 📈</h2>
 
 <div align="center">
 

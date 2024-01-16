@@ -18,7 +18,7 @@ I am a dedicated software enthusiast fueled by passion and curiosity, who is in 
 -   _👯 I'm keen to connect with fellow visionaries in the Web3 space, looking forward to collaborative opportunities ✊_
 -   _🤔 My primary goal is to create something truly impactful that will enrich the community as a whole 🐾_
 -   _💬 If you're interested in profound philosophical discussions, don't hesitate to ask me about the purpose of life 🍀_
--   _📫 Reach me out at: [Telegram](https://t.me/bejzik) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) 🧭_
+-   _📫 Reach me out at: [Telegram](https://t.me/bejzik) | [LinkedIn](https://www.linkedin.com/in/mirkobasic) | [GMail](mailto:bejzik8@gmail.com) 🧭_
 -   _⚡ Fun fact: In the past, I used to breakdance, I can still windmill 😎_
 
 <br>

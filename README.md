@@ -4,11 +4,9 @@
 
 <h2 align='center'>Get to Know Me 🍀</h2>
 
-I am a dedicated full-stack software engineer deeply passionate about my work. My commitment lies in the creation of elegant, maintainable, and efficient code, paving the way for performant, easy-maintainable, future-proof web applications. I place a high value on well-structured project architectures, thoughtful user interactions, and the exploration of innovative concepts. My enthusiasm for technology spans a wide spectrum, but I have a special affinity for React. I have invested a significant amount of time delving into its intricacies and its comprehensive ecosystem. I find React's unopinionated nature particularly appealing, allowing individuals the flexibility to adapt it to their unique needs and express their creativity.
+I LOVE what I do!
 
-My unwavering dedication, keen eye for detail, and unrelenting pursuit of excellence drive my ongoing quest for improvement. My abundant energy fuels my multifaceted interests, all of which I approach with a mission-driven work ethic to continuously get better.
-
-I have a deep appreciation for the entire technological landscape, but what truly captivates my imagination is the realm of blockchain and its transformative concepts. This fascination has driven me to orient my career in this direction, investing both my time and expertise. I hold a strong belief in the potential of blockchain to reshape the future and revolutionize the internet as we perceive it today. My commitment to this vision is unwavering, and I am dedicated to the thorough mastery of blockchain concepts, with the ultimate goal of making substantial contributions to the community and instigating meaningful changes.
+I am a dedicated software enthusiast fueled by passion and curiosity, who is in constant pursuit of a challenge by exploring new technologies. I am interested and I have experience in all areas of software creation, starting with planning, design, project management and ownership all the way up to the execution which is my primary craft.
 
 <br>
 <img src='./src/smoke.png'>
@@ -16,13 +14,12 @@ I have a deep appreciation for the entire technological landscape, but what trul
 
 <h2 align='center'>GitHub README.md Template 😅</h2>
 
--   _🔭 I am presently in the process of acquiring proficiency in Solidity along with its core concepts 🛠_
--   _🌱 I am in the process of immersing myself in a thorough exploration of blockchain concepts ⛓️_
+-   _🔭 I am presently in the process of acquiring proficiency in Rust 🦀 along with its core concepts 🛠_
 -   _👯 I'm keen to connect with fellow visionaries in the Web3 space, looking forward to collaborative opportunities ✊_
 -   _🤔 My primary goal is to create something truly impactful that will enrich the community as a whole 🐾_
 -   _💬 If you're interested in profound philosophical discussions, don't hesitate to ask me about the purpose of life 🍀_
 -   _📫 Reach me out at: [Telegram](https://t.me/bejzik) | [LinkedIn](https://www.linkedin.com/in/basic.mirko) | [GMail](mailto:bejzik8@gmail.com) 🧭_
--   _⚡ Fun fact: In the past, I was a breakdancer, and to this day, I can still flawlessly execute windmills 😎_
+-   _⚡ Fun fact: In the past, I used to breakdance, I can still windmill 😎_
 
 <br>
 
